@@ -45,19 +45,19 @@ Sitemap: https://example.com/sitemap.xml
 
 Usually there is no reason to allow indexing for:
 
-cart pages
-checkout pages
-internal search results
-filter parameters
-tracking parameters
+- cart pages
+- checkout pages
+- internal search results
+- filter parameters
+-  tracking parameters
 
 ### Be careful with CSS and JavaScript blocking
 
 Modern search engines need access to:
 
-CSS
-JavaScript
-images
+- CSS
+- JavaScript
+- images
 
 to properly render pages.
 
@@ -96,9 +96,9 @@ This may negatively affect image indexing and page rendering.
 
 Too many unnecessary rules may:
 
-confuse crawlers
-block important resources
-create indexing issues
+- confuse crawlers
+- block important resources
+- create indexing issues
 
 Simple configurations are often better.
 
@@ -108,24 +108,24 @@ Simple configurations are often better.
 
 After updating robots.txt:
 
-test it in Google Search Console
-check page rendering
-verify sitemap accessibility
-monitor indexation changes
+- test it in Google Search Console
+- check page rendering
+- verify sitemap accessibility
+- monitor indexation changes
 
 ---
 
 ## Related Topics
 
-Technical SEO
-XML Sitemaps
-Crawl Budget Optimization
-WordPress SEO
-WooCommerce SEO
+- Technical SEO
+- XML Sitemaps
+-Crawl Budget Optimization
+- WordPress SEO
+- WooCommerce SEO
 
 ---
 
 ## Author
 
-Bohdan Prytulyak
-PBB Design
+- Bohdan Prytulyak
+- PBB Design
